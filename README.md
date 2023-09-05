@@ -4,3 +4,4 @@ My first rep with using Git!
 - Surname: ***
 - Age: 19
 - Country: Ukraine
+- Sex: Male
