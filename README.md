@@ -5,3 +5,4 @@ My first rep with using Git!
 - Age: 19
 - Country: Ukraine
 - Sex: Male
+- Usage programming languages: Python, C#
